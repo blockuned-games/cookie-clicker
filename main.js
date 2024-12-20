@@ -2222,7 +2222,7 @@ Game.Launch=function()
 			var str='';
 			if (EN)
 			{
-				return (Math.random()>0.05?(choose(['Cookie Clicker'])+' '):'Mc')+choose(['(XL UNBLOCKED)']);
+				return 'Cookie Clicker XL UNBLOCKED';
 			}
 			else
 			{
